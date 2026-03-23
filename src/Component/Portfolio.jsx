@@ -18,7 +18,7 @@ const PROJECTS = [
     tagColor: "#f5a623",
     desc: "Built for my family's juice shop to replace manual daily bookkeeping. A real non-technical user tracks expenses and manages inventory with this app every day.",
     tech: ["React", "Node.js", "Express", "PostgreSQL", "Material UI"],
-    github: "https://github.com/Suvish23/jucie_shop",
+    github: "https://github.com/Suvish23/Juice_Shop_Expense_Calculator",
     highlight: false,
   },
   {
